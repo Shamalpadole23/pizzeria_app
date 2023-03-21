@@ -1,0 +1,28 @@
+.img{
+    background-image: url('glitter.jpeg');
+    height: 90vh;
+
+}
+.card{
+    width: 20%;
+    height: 420px;
+    background-color: whitesmoke;
+   margin: 0px 20px 120px 450px;
+   padding: 50px;
+}
+
+.card h1{
+    margin-left: 35px;
+}
+
+form input{
+    width: 200px;
+    margin-top: 20px;
+}
+
+.icons svg{
+    color: black;
+  margin-left: 15px;
+    font-size: 30px;
+    cursor: pointer;
+}
